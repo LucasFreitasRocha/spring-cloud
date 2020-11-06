@@ -1,0 +1,1774 @@
+!SESSION 2020-11-05 19:14:59.483 -----------------------------------------------
+eclipse.buildId=4.8.1.202010230733
+java.version=15
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/wallacegsouza/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/wallacegsouza/.eclipse_keyring
+
+This is a continuation of log file /Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.bak_0.log
+Created Time: 2020-11-05 20:37:53.488
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:53.488
+!MESSAGE Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:53.488
+!MESSAGE Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:53.505
+!MESSAGE Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:53.506
+!MESSAGE Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:53.506
+!MESSAGE Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:53.506
+!MESSAGE Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:53.507
+!MESSAGE Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:53.507
+!MESSAGE Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:53.508
+!MESSAGE Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:53.508
+!MESSAGE Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2020-11-05 20:37:53.744
+!MESSAGE DebugException: Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:414)
+	at org.springframework.ide.eclipse.boot.launch.devtools.BootDevtoolsClientLaunchConfigurationDelegate.isManaged(BootDevtoolsClientLaunchConfigurationDelegate.java:281)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsUtil$1.deleteConf(DevtoolsUtil.java:283)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsUtil$1.processTerminated(DevtoolsUtil.java:278)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processTerminated(ProcessTracker.java:112)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:78)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:48)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1201)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1235)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:465)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:53.744
+!MESSAGE Launch configuration loja - LojaApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/loja%20-%20LojaApplication.launch does not exist.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:37:58.043
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:37:58.044
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq fornecedor true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:37:58.044
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 20:37:58.045
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:37:58.047
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:58.203
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:58.203
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:58.204
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:58.204
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:58.205
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:58.205
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:58.206
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:58.206
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:58.208
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:58.208
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:58.208
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:58.208
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:58.210
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:58.210
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:37:58.212
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:37:58.212
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:01.215
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:01.215
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:01.216
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:01.216
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:01.216
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:01.216
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:01.217
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:01.217
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:01.217
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:01.217
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:01.218
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:01.218
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2020-11-05 20:38:01.597
+!MESSAGE DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:414)
+	at org.springframework.ide.eclipse.boot.launch.devtools.BootDevtoolsClientLaunchConfigurationDelegate.isManaged(BootDevtoolsClientLaunchConfigurationDelegate.java:281)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsUtil$1.deleteConf(DevtoolsUtil.java:283)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsUtil$1.processTerminated(DevtoolsUtil.java:278)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processTerminated(ProcessTracker.java:112)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:78)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:48)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1201)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1235)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:465)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:01.597
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:01.599
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.disconnect(ConsoleLineNotifier.java:71)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$CompiledPatternMatchListener.dispose(ConsolePatternMatcher.java:198)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher.disconnect(ConsolePatternMatcher.java:260)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:164)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:01.599
+!MESSAGE Launch configuration fornecedor - FornecedorApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/fornecedor%20-%20FornecedorApplication.launch does not exist.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:04.133
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:04.135
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq eureka-server true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:04.136
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 20:38:04.137
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:04.169
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:04.320
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:04.320
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:04.321
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:04.321
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:04.321
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:04.322
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:04.322
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:04.322
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:04.324
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:04.324
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:04.326
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:04.327
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:04.328
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:04.329
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:04.331
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:04.331
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:04.332
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:04.332
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2020-11-05 20:38:04.700
+!MESSAGE DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:414)
+	at org.springframework.ide.eclipse.boot.launch.devtools.BootDevtoolsClientLaunchConfigurationDelegate.isManaged(BootDevtoolsClientLaunchConfigurationDelegate.java:281)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsUtil$1.deleteConf(DevtoolsUtil.java:283)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsUtil$1.processTerminated(DevtoolsUtil.java:278)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processTerminated(ProcessTracker.java:112)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:78)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:48)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1201)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1235)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:465)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:04.700
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:04.705
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.disconnect(ConsoleLineNotifier.java:71)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$CompiledPatternMatchListener.dispose(ConsolePatternMatcher.java:198)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher.disconnect(ConsolePatternMatcher.java:260)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:164)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:04.705
+!MESSAGE Launch configuration eureka-server - EurekaServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/eureka-server%20-%20EurekaServerApplication.launch does not exist.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:09.210
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:09.212
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq config-server true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:09.213
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 20:38:09.213
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:09.226
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:09.397
+!MESSAGE Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:09.398
+!MESSAGE Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:09.398
+!MESSAGE Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:09.399
+!MESSAGE Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:09.504
+!MESSAGE Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:09.504
+!MESSAGE Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:09.504
+!MESSAGE Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:115)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:09.504
+!MESSAGE Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2020-11-05 20:38:09.853
+!MESSAGE DebugException: Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:414)
+	at org.springframework.ide.eclipse.boot.launch.devtools.BootDevtoolsClientLaunchConfigurationDelegate.isManaged(BootDevtoolsClientLaunchConfigurationDelegate.java:281)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsUtil$1.deleteConf(DevtoolsUtil.java:283)
+	at org.springframework.ide.eclipse.boot.dash.devtools.DevtoolsUtil$1.processTerminated(DevtoolsUtil.java:278)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processTerminated(ProcessTracker.java:112)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:78)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:48)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1201)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1235)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:465)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:09.853
+!MESSAGE Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-11-05 20:38:09.854
+!MESSAGE Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:885)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1369)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:488)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:144)
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:87)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:123)
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.disconnect(ConsoleLineNotifier.java:71)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$CompiledPatternMatchListener.dispose(ConsolePatternMatcher.java:198)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher.disconnect(ConsolePatternMatcher.java:260)
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:164)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2020-11-05 20:38:09.854
+!MESSAGE Launch configuration config-server - ConfigServerApplication at file:/Users/wallacegsouza/Projetos/Estudo/microservicos2/.metadata/.plugins/org.eclipse.debug.core/.launches/config-server%20-%20ConfigServerApplication.launch does not exist.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:51.077
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:51.078
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:51.086
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq config-server false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:51.092
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:51.094
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:58.782
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:58.794
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:58.795
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq config-server false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:58.795
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:38:58.803
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:07.586
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:07.587
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:07.610
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq eureka-server false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:07.610
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:07.612
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:08.738
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:08.740
+!MESSAGE classpath=161 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:08.742
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq eureka-server false 161
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:08.743
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:08.753
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:25.588
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:25.591
+!MESSAGE classpath=165 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:25.593
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq fornecedor false 165
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:25.594
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:25.607
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:37.070
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:37.073
+!MESSAGE classpath=182 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:37.078
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq loja false 182
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:37.079
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:39:37.110
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.eclipse.tm4e.ui 4 0 2020-11-05 20:39:57.511
+!MESSAGE Index 13 out of bounds for length 13
+!STACK 0
+java.lang.IndexOutOfBoundsException: Index 13 out of bounds for length 13
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at java.base/java.util.Collections$SynchronizedList.get(Collections.java:2460)
+	at org.eclipse.tm4e.core.model.AbstractLineList.get(AbstractLineList.java:71)
+	at org.eclipse.tm4e.core.model.TMModel.getLineTokens(TMModel.java:320)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler.colorize(TMPresentationReconciler.java:521)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler$InternalListener.textChanged(TMPresentationReconciler.java:309)
+	at org.eclipse.jface.text.TextViewer.updateTextListeners(TextViewer.java:2709)
+	at org.eclipse.jface.text.TextViewer.invalidateTextPresentation(TextViewer.java:3353)
+	at org.eclipse.jface.text.hyperlink.DefaultHyperlinkPresenter.repairRepresentation(DefaultHyperlinkPresenter.java:264)
+	at org.eclipse.jface.text.hyperlink.DefaultHyperlinkPresenter.hideHyperlinks(DefaultHyperlinkPresenter.java:161)
+	at org.eclipse.jface.text.hyperlink.MultipleHyperlinkPresenter.hideHyperlinks(MultipleHyperlinkPresenter.java:743)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.deactivate(HyperlinkManager.java:247)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.textChanged(HyperlinkManager.java:500)
+	at org.eclipse.jface.text.TextViewer.updateTextListeners(TextViewer.java:2709)
+	at org.eclipse.jface.text.TextViewer$VisibleDocumentListener.documentChanged(TextViewer.java:397)
+	at org.eclipse.jface.text.AbstractDocument.doFireDocumentChanged2(AbstractDocument.java:748)
+	at org.eclipse.jface.text.AbstractDocument.doFireDocumentChanged(AbstractDocument.java:717)
+	at org.eclipse.jface.text.AbstractDocument.doFireDocumentChanged(AbstractDocument.java:701)
+	at org.eclipse.jface.text.AbstractDocument.fireDocumentChanged(AbstractDocument.java:775)
+	at org.eclipse.jface.text.AbstractDocument.replace(AbstractDocument.java:1100)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.replace(SynchronizableDocument.java:176)
+	at org.eclipse.jface.text.AbstractDocument.replace(AbstractDocument.java:1118)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.replace(SynchronizableDocument.java:164)
+	at org.eclipse.jface.text.DefaultDocumentAdapter.replaceTextRange(DefaultDocumentAdapter.java:223)
+	at org.eclipse.swt.custom.StyledText.modifyContent(StyledText.java:7432)
+	at org.eclipse.swt.custom.StyledText.sendKeyEvent(StyledText.java:8306)
+	at org.eclipse.swt.custom.StyledText.paste(StyledText.java:7496)
+	at org.eclipse.jface.text.TextViewer.paste(TextViewer.java:3932)
+	at org.eclipse.jface.text.TextViewer.doOperation(TextViewer.java:3863)
+	at org.eclipse.jface.text.source.SourceViewer.doOperation(SourceViewer.java:1064)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.doOperation(ProjectionViewer.java:1466)
+	at org.eclipse.ui.texteditor.TextOperationAction.lambda$0(TextOperationAction.java:130)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:74)
+	at org.eclipse.ui.texteditor.TextOperationAction.run(TextOperationAction.java:130)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:121)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:97)
+	at jdk.internal.reflect.GeneratedMethodAccessor113.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:319)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:253)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:173)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:156)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:487)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:584)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:653)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:443)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.access$2(KeyBindingDispatcher.java:386)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1111)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4380)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1512)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1535)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1520)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1549)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1545)
+	at org.eclipse.swt.widgets.Canvas.sendKeyEvent(Canvas.java:522)
+	at org.eclipse.swt.widgets.Control.doCommandBySelector(Control.java:1081)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6184)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSResponder.interpretKeyEvents(NSResponder.java:59)
+	at org.eclipse.swt.widgets.Composite.keyDown(Composite.java:606)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6016)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Widget.callSuper(Widget.java:235)
+	at org.eclipse.swt.widgets.Widget.windowSendEvent(Widget.java:2150)
+	at org.eclipse.swt.widgets.Shell.windowSendEvent(Shell.java:2401)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:6136)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSendSuper(Native Method)
+	at org.eclipse.swt.widgets.Display.applicationSendEvent(Display.java:5386)
+	at org.eclipse.swt.widgets.Display.applicationProc(Display.java:5522)
+	at org.eclipse.swt.internal.cocoa.OS.objc_msgSend(Native Method)
+	at org.eclipse.swt.internal.cocoa.NSApplication.sendEvent(NSApplication.java:117)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3786)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:153)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:50:38.442
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:50:38.463
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:50:38.480
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq transportador false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:50:38.502
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:50:38.508
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:50:43.420
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:50:43.422
+!MESSAGE classpath=165 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:50:43.424
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq transportador false 165
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:50:43.451
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 20:50:43.459
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:00:15.115
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:00:15.123
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq transportador true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:00:15.140
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 21:00:15.146
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:00:15.186
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:00:54.850
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:00:54.930
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:00:54.981
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq transportador false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:00:55.067
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:00:55.070
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:01:00.495
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:01:00.498
+!MESSAGE classpath=165 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:01:00.500
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq transportador false 165
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:01:00.500
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:01:00.731
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:51:50.487
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:51:50.526
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq transportador true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:51:50.530
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 21:51:50.532
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:51:50.539
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:00.245
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:00.245
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq loja true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:00.257
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 21:52:00.263
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:00.284
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:05.538
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:05.539
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq fornecedor true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:05.540
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 21:52:05.546
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:05.551
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:10.646
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:10.650
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq eureka-server true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:10.653
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 21:52:10.655
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:10.671
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:17.541
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:17.541
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq config-server true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:17.542
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 21:52:17.542
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:17.548
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:43.479
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:43.480
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:43.490
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq config-server false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:43.501
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:43.504
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:50.403
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:50.421
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:50.423
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq config-server false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:50.423
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:50.430
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:57.711
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:57.712
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:57.730
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq eureka-server false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:57.740
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:57.743
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:58.851
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:58.854
+!MESSAGE classpath=161 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:58.855
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq eureka-server false 161
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:58.856
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:52:58.860
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:08.251
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:08.254
+!MESSAGE classpath=165 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:08.256
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq fornecedor false 165
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:08.256
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:08.261
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:19.325
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:19.328
+!MESSAGE classpath=182 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:19.332
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq loja false 182
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:19.332
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:19.356
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:32.870
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:32.875
+!MESSAGE classpath=165 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:32.877
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq transportador false 165
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:32.877
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 21:53:32.884
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:01.511
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:01.521
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq config-server true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:01.523
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 22:16:01.525
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:01.537
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:06.238
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:06.239
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq eureka-server true 0
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 22:16:06.240
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:06.242
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:06.248
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:10.821
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:10.822
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq fornecedor true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:10.823
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 22:16:10.825
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:10.829
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:15.930
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:15.931
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq loja true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:15.932
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 22:16:15.934
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:15.939
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:22.424
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:22.424
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq transportador true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:22.425
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.eclipse.core.resources 4 2 2020-11-05 22:16:22.428
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because the return value of "org.eclipse.core.resources.IProject.getLocationURI()" is null
+	at org.eclipse.lsp4e.LSPEclipseUtils.toWorkspaceFolder(LSPEclipseUtils.java:790)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:497)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:51)
+	at org.eclipse.lsp4e.LanguageServerWrapper.toWorkspaceFolderEvent(LanguageServerWrapper.java:491)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$0(LanguageServerWrapper.java:169)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:575)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:263)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:16:22.434
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:03.535
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:03.536
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:03.544
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq config-server false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:03.555
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:03.556
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:10.533
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:10.537
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:10.546
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq config-server false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:10.546
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:10.560
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:17.685
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:17.686
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:17.687
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq eureka-server false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:17.687
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:17.694
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:18.766
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:18.768
+!MESSAGE classpath=161 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:18.770
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq eureka-server false 161
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:18.770
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:18.775
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:32.310
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:32.313
+!MESSAGE classpath=165 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:32.314
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq fornecedor false 165
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:32.314
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:32.320
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:51.922
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:51.924
+!MESSAGE classpath=182 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:51.926
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq loja false 182
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:51.927
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:17:51.931
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:04.177
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:04.181
+!MESSAGE classpath=165 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:04.184
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq transportador false 165
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:04.184
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:04.197
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:15.809
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:15.810
+!MESSAGE classpath=22 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:16.021
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq zuul false 22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:16.054
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:16.056
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:18.176
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:18.179
+!MESSAGE classpath=163 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:18.181
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq zuul false 163
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:18.182
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:18.191
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:21.744
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:21.746
+!MESSAGE classpath=163 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:21.748
+!MESSAGE buffering callback sts4.classpath.TXaDAtBq zuul false 163
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:21.748
+!MESSAGE executing callback sts4.classpath.TXaDAtBq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-05 22:18:21.752
+!MESSAGE executing callback sts4.classpath.TXaDAtBq SUCCESS [done]
